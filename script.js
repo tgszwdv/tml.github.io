@@ -7,7 +7,7 @@ const videos = [
 { link: "https://www.youtube.com/embed/1FHngx3GvJA?t=181", nome: "Aline Rocha", style: "Soulful & House", nota: "" },
 { link: "https://www.youtube.com/embed/j1ZZOuxtzrc?t=582", nome: "Alok", style: "DeepHouse/House/Brazilian Bass", nota: "" },
 { link: "https://www.youtube.com/embed/yrU-zBOGZPw?t=961", nome: "Amber Bross", style: "Trance/Liquid Trance", nota: "" },
-{ link: "https://www.youtube.com/embed/EF9JTFq8ErY?t=2940", nome: "aname", style: "Trance/Liquid Trance", nota: "" },
+{ link: "https://www.youtube.com/embed/EF9JTFq8ErY?t=2940", nome: "Anamê", style: "Trance/Liquid Trance", nota: "" },
 
 
 ];
