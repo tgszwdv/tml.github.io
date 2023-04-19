@@ -1,11 +1,13 @@
 const videos = [
-  
-{ link: "https://youtu.be/qrOCRqYjebI?t=415", nome: "Acraze", style: "Deephouse", nota: "" },
-{ link: "https://youtu.be/Evz8iIl5yrM?t=1607", nome: "Afrojack", style: "Pop/House/Progressive/Big Room", nota: "" },
-{ link: "https://youtu.be/1FHngx3GvJA?t=181", nome: "Aline Rocha", style: "Soulful & House", nota: "" },
-{ link: "https://youtu.be/j1ZZOuxtzrc?t=582", nome: "Alok", style: "DeepHouse/House/Brazilian Bass", nota: "" },
-{ link: "https://youtu.be/yrU-zBOGZPw?t=961", nome: "Amber Bross", style: "Trance/Liquid Trance", nota: "" },
-{ link: "https://youtu.be/EF9JTFq8ErY?t=2940", nome: "aname", style: "Trance/Liquid Trance", nota: "" },
+  //{ link: "https://www.youtube.com/embed/yo4pmauhugo", nome: "Tiesto", style: "Trance", nota: "" },
+  //{ link: "https://www.youtube.com/embed/9Sc-ir2UwGU", nome: "Armin van Buuren", style: "Trance", nota: "" },
+ // { link: "https://www.youtube.com/embed/fzQ6gRAEoy0", nome: "David Guetta", style: "Electro House", nota: "" }
+{ link: "https://www.youtube.com/embed/qrOCRqYjebI?t=415", nome: "Acraze", style: "Deephouse", nota: "" },
+{ link: "https://www.youtube.com/embed/Evz8iIl5yrM?t=1607", nome: "Afrojack", style: "Pop/House/Progressive/Big Room", nota: "" },
+{ link: "https://www.youtube.com/embed/1FHngx3GvJA?t=181", nome: "Aline Rocha", style: "Soulful & House", nota: "" },
+{ link: "https://www.youtube.com/embed/j1ZZOuxtzrc?t=582", nome: "Alok", style: "DeepHouse/House/Brazilian Bass", nota: "" },
+{ link: "https://www.youtube.com/embed/yrU-zBOGZPw?t=961", nome: "Amber Bross", style: "Trance/Liquid Trance", nota: "" },
+{ link: "https://www.youtube.com/embed/EF9JTFq8ErY?t=2940", nome: "aname", style: "Trance/Liquid Trance", nota: "" },
 
 
 ];
